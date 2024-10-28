@@ -1,8 +1,2 @@
-# ProjetoInterdisciplinar_3Semestre_ADS
-Guilherme Aparecido Marinho dos Santos 29969476 
-
-
-Nicoly dos Santos Rocha 29233658 
-
-
-Lucas Rodrigues Amorim 29541425
+# Projeto Startup Banco Financeiro - NewBank
+Um projeto de uma startup de um banco financeiro virtual feito durante a faculdade, este projeto foi um desafio muito interessante!
